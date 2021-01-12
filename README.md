@@ -29,7 +29,7 @@ A library of interactive Maclaurin Series Models written in Python, including tr
 ![Sine Approximations](/images/sineApproximations.gif)
 
 #### e<sup>x</sup> Maclaurin Series Approximations:
-![Exponential Approximations](/images/esponentialApproximations.gif)
+![Exponential Approximations](/images/exponentialApproximations.gif)
 
 #### ln(1-x) Maclaurin Series Approximations:
 ![ln(1-x) Approximations](/images/lnApproximations.gif)
