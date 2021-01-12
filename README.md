@@ -1,6 +1,9 @@
 # maclaurin-series-models
-## Mathematical Visualisations written in Python using MatPlotLib
-A library of interactive Maclaurin series models written in Python.
+## Interactive Mathematical Visualisations of Maclaurin Series Approximations
+
+A library of interactive Maclaurin Series Models written in Python. This includes but is not limited to Trigonometric and Exponential functions. The polynomial degree of the approximations can be toggled manually via a slider or it can iterate automatically if needed. Animated ```.gif``` images can also be generated via the graphical interface for each model.
+
+#### Harvey Donnelly 2021 - [www.donl.io](http://www.donl.io)
 
 ## Requirements
 
@@ -12,9 +15,23 @@ A library of interactive Maclaurin series models written in Python.
   * [seaborn: statistical data visualisation:](https://seaborn.pydata.org) ```pip install seaborn```
   * [math:](https://docs.python.org/3/library/math.html) ```pip install math```
 
-## Animated Visualisations
-#### Cosine Maclaurin Series Approximations
-![COsine Approximations](/images/cosineApproximations.gif)
+## Navigation
+#### Modelling Scripts
+```maclaurin-series-models/scripts```
+#### Pre-Generated Animated Visualisations
+```maclaurin-series-models/images```
 
-#### Sine Maclaurin Series Approximations
-![COsine Approximations](/images/sineApproximations.gif)
+## Animated Visualisations
+#### Cosine Maclaurin Series Approximations:
+![Cosine Approximations](/images/cosineApproximations.gif)
+
+#### Sine Maclaurin Series Approximations:
+![Sine Approximations](/images/sineApproximations.gif)
+
+#### e<sup>x</sup> Maclaurin Series Approximations:
+![Exponential Approximations](/images/esponentialApproximations.gif)
+
+#### ln(1-x) Maclaurin Series Approximations:
+![ln(1-x) Approximations](/images/lnApproximations.gif)
+
+#### Harvey Donnelly 2021 - [www.donl.io](http://www.donl.io)
