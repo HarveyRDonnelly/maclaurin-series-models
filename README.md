@@ -1,7 +1,7 @@
 # maclaurin-series-models
 ## Interactive Mathematical Visualisations of Maclaurin Series Approximations
 
-A library of interactive Maclaurin Series Models written in Python. This includes but is not limited to Trigonometric and Exponential functions. The polynomial degree of the approximations can be toggled manually via a slider or it can iterate automatically if needed. Animated ```.gif``` images can also be generated via the graphical interface for each model.
+A library of interactive Maclaurin Series Models written in Python, including trigonometric and exponential functions. The polynomial degree of the approximations can be toggled manually via a slider or it can iterate automatically if needed. Animated ```.gif``` images can also be generated via the graphical interface for each model.
 
 #### Created by Harvey Donnelly - [www.donl.io](http://www.donl.io)
 
