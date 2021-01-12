@@ -1,2 +1,2 @@
 # mathematical-modelling
-A library of interactive mathematical models written in Python.
+A library of interactive Maclaurin series models written in Python.
